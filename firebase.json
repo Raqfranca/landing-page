@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "site": "onboarding-flamengo-prod",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
+  
